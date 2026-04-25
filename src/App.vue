@@ -8,7 +8,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 
     <div class="wrapper">
       <HelloWorld
-        msg="¡¡Enhorabuena!! Estás visualizando la aplicación desplegada"
+        msg="¡¡Enhorabuena!! Estás visualizando la aplicación desplegada v2"
       />
     </div>
   </header>
